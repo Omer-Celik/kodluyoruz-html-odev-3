@@ -1,0 +1,26 @@
+* {
+    color: rgb(90, 36, 0);
+}
+body {
+    background: rgb(238, 175, 136);
+}
+h2 {
+    font-size: 28px;
+}
+p {
+    font-size: 24px;   
+}
+li {
+    font-size: 20px;
+}
+div {
+    display: flex;
+}
+.class-2 {
+    margin-left: 40px; 
+}
+img {
+    border: 2px black solid;
+    border-radius: 8px;
+    box-shadow: 0 0 2px 2px black;
+}  
