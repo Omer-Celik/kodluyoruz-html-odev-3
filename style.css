@@ -16,8 +16,13 @@ li {
 div {
     display: flex;
 }
+.class-1 {
+    text-decoration: underline;
+}
 .class-2 {
-    margin-left: 40px; 
+    display: flex;
+    margin-left: 40px;
+    text-decoration: underline;
 }
 img {
     border: 2px black solid;
